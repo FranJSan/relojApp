@@ -1,0 +1,11 @@
+C:\Users\fran_\source\repos\dam\RelojApp\bin\Debug\RelojApp.exe.config
+C:\Users\fran_\source\repos\dam\RelojApp\bin\Debug\RelojApp.exe
+C:\Users\fran_\source\repos\dam\RelojApp\bin\Debug\RelojApp.pdb
+C:\Users\fran_\source\repos\dam\RelojApp\obj\Debug\RelojApp.csproj.AssemblyReference.cache
+C:\Users\fran_\source\repos\dam\RelojApp\obj\Debug\RelojApp.FrmMain.resources
+C:\Users\fran_\source\repos\dam\RelojApp\obj\Debug\RelojApp.Properties.Resources.resources
+C:\Users\fran_\source\repos\dam\RelojApp\obj\Debug\RelojApp.csproj.GenerateResource.cache
+C:\Users\fran_\source\repos\dam\RelojApp\obj\Debug\RelojApp.csproj.CoreCompileInputs.cache
+C:\Users\fran_\source\repos\dam\RelojApp\obj\Debug\RelojApp.exe
+C:\Users\fran_\source\repos\dam\RelojApp\obj\Debug\RelojApp.pdb
+C:\Users\fran_\source\repos\dam\RelojApp\obj\Debug\RelojApp.FrmAdd.resources
