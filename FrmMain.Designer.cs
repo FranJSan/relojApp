@@ -30,6 +30,7 @@ namespace RelojApp
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmMain));
             this.TbHora = new System.Windows.Forms.TextBox();
             this.TbZonasHorarias = new System.Windows.Forms.TextBox();
             this.TimerMain = new System.Windows.Forms.Timer(this.components);
@@ -117,27 +118,27 @@ namespace RelojApp
             // TsMenuAgregar
             // 
             this.TsMenuAgregar.Name = "TsMenuAgregar";
-            this.TsMenuAgregar.Size = new System.Drawing.Size(116, 22);
+            this.TsMenuAgregar.Size = new System.Drawing.Size(118, 22);
             this.TsMenuAgregar.Text = "Agregar";
             this.TsMenuAgregar.Click += new System.EventHandler(this.TsMenuAgregar_Click);
             // 
             // TsMenuBorrar
             // 
             this.TsMenuBorrar.Name = "TsMenuBorrar";
-            this.TsMenuBorrar.Size = new System.Drawing.Size(116, 22);
+            this.TsMenuBorrar.Size = new System.Drawing.Size(118, 22);
             this.TsMenuBorrar.Text = "Borrar";
             // 
             // TsMenuSalir
             // 
             this.TsMenuSalir.Name = "TsMenuSalir";
-            this.TsMenuSalir.Size = new System.Drawing.Size(116, 22);
+            this.TsMenuSalir.Size = new System.Drawing.Size(118, 22);
             this.TsMenuSalir.Text = "Salir";
             this.TsMenuSalir.Click += new System.EventHandler(this.TsMenuSalir_Click);
             // 
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(113, 6);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(115, 6);
             // 
             // LblHoraActual
             // 
@@ -173,6 +174,7 @@ namespace RelojApp
             this.Controls.Add(this.TbHora);
             this.Controls.Add(this.menuStrip1);
             this.Font = new System.Drawing.Font("Gadugi", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.MaximizeBox = false;
             this.Name = "FrmMain";
